@@ -1,7 +1,7 @@
 
 # 🛠️ Active Directory Home Lab – VirtualBox Deployment
 
-In this lab, I have set up several virtual machines in VirtualBox to simulate a real-world Active Directory environment. The lab is inspired by several online tutorials. I have listed them at the [end of the report](https://github.com/cheshanj/AD_Home_Lab/blob/main/docs/Active_Directory_Home_Lab.md#-lab-practices-vs-real-world-best-practices).
+In this lab, I have set up several virtual machines in VirtualBox to simulate a real-world Active Directory environment. The lab is inspired by several online tutorials. I have listed them at the [end of the report](https://github.com/cheshanj/AD_Home_Lab/edit/main/docs/Active_Directory_Home_Lab.md#1%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3-resources).
 
 ---
 
