@@ -220,6 +220,17 @@ Clients are internal-only and need the server as a gateway.
 
 ---
 
+## 1️⃣6️⃣ Resources
+
+- [Building a Virtual Security Home Lab: Part 6 - Active Directory Lab Setup - Part 1 | Source Code](https://blog.davidvarghese.net/posts/building-home-lab-part-6/)
+- [How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://www.youtube.com/watch?v=MHsI8hJmggI&list=PLqBeiU46hx1H--SNfTrohTOWeqkK-M2Y0)
+- [Home Lab Beginners guide (Hardware)](https://linuxblog.io/home-lab-beginners-guide-hardware/)
+- [Building a Security Lab in VirtualBox](https://benheater.com/building-a-security-lab-in-virtualbox/)
+- [r/Homelab](https://www.reddit.com/r/homelab/)
+
+
+---
+
 ## ✅ Lab Practices vs Real-World Best Practices
 > [!IMPORTANT]
 > Most of the lab settings were used to keep the setup simple.
